@@ -1,0 +1,9 @@
+{
+  "name": "cra-eject-root",
+  "packageManager": "yarn@3.3.1",
+  "private": true,
+  "workspaces": [
+    "front",
+    "shared"
+  ]
+}
